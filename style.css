@@ -59,3 +59,17 @@ p{
     background-repeat: no-repeat;
     background-position: left;
 }
+#full-stack-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+
+}
+#bby-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(green,blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
